@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ljointz
 - 👀 I’m interested in ...music & entertainment in the crypto space 
-- 🌱 I’m currently learning ... EFT minting
+- 🌱 I’m currently learning ... EFT minting and python 
 - 💞️ I’m looking to collaborate on ... Programming & Production 
 - 📫 How to reach me ...Twitter @Ljointz
 
